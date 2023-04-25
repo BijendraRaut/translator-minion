@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --primary: #F2C94C;
+    --black: #333333;
+    --width-break:600px
+}
+
+body {
+    font-family: 'kalam', cursive;
+    margin: 0;
+    columns: #333333;
+}
+
+nav {
+    background-color: var(--primary);
+    text-align: center;
+}
+
